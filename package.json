@@ -1,0 +1,22 @@
+{
+  "name": "java-command-line-calculator",
+  "version": "1.0.0",
+  "description": "This Java program is a simple command line calculator that supports basic arithmetic operations (+, -, *, /). Users can enter two numbers and an operator to perform calculations. Use this calculator for quick mathematical computations in the terminal.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuallis/Java-Command-Line-Calculator"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "guava": "^30.1-jre",
+    "commons-lang3": "^3.12.0",
+    "junit": "^4.13.2",
+    "javascript-todo-list-application": "^1.0.0"
+  }
+}
